@@ -1,0 +1,5 @@
+security.protocol=SSL
+ssl.key.location=/service.key
+ssl.certificate.location=/service.crt 
+ssl.ca.location=/ca.crt
+ssl.key.password=

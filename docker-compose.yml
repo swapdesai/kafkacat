@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  kafkacat:
+    image: kafkacat
+    build: 
+      context: .
+      dockerfile: Dockerfile
